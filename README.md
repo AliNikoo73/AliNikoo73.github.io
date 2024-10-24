@@ -1,6 +1,6 @@
 # Personal Website
 
-This is my [personal website](https://AliNikoo73.github.io/website/) forked from [William Glazer](https://github.com/williamGlazer/website), inspired by [linktree](https://linktr.ee/).
+This is my [personal website](https://AliNikoo73.github.io/) forked from [William Glazer](https://github.com/williamGlazer/website), inspired by [linktree](https://linktr.ee/).
 
 ## Sources
 
