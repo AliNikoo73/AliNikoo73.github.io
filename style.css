@@ -9,9 +9,9 @@ body {
     color: #212121;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
-    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    background: linear-gradient(-45deg, #051235, #054f7c, #57a0b1, #c2c2c2);
     background-size: 400% 400%;
-    animation: gradient 35s ease infinite;
+    animation: gradient 15s ease infinite;
     min-height: 100vh;
     display: flex;
     align-items: center;
